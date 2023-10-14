@@ -26,3 +26,8 @@ body {
 .brand span {
   color: aqua;
 }
+.menu {
+  display: flex;
+  width: 50%;
+  justify-content: space-around;
+}
