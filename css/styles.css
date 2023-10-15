@@ -217,3 +217,13 @@ h1 {
   text-transform: uppercase;
   background-color: aqua;
 }
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 200px;
+  padding: 2em;
+  background-color: aqua;
+}
