@@ -194,3 +194,10 @@ h1 {
   width: 30vw;
   margin-top: 2em;
 }
+.form-group textarea {
+  height: 150px;
+  padding: 1.5em;
+  background: none;
+  border: 1px solid #fff;
+  color: #fff;
+}
