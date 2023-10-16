@@ -159,7 +159,7 @@ h1 {
   background-size: cover;
 }
 .card__title {
-  /* padding: 20px; */
+  padding: 20px;
 }
 .card__proyect-links {
   display: flex;
@@ -385,4 +385,7 @@ h1 {
 
 .sotial-networks i {
   font-size: 1.5em;
+}
+html {
+scroll-behavior: smooth;
 }
